@@ -1,0 +1,8 @@
+node_modules/
+.git/
+*.log
+nodes/
+tsconfig.json
+copy-icons.js
+test.js
+.vscode/

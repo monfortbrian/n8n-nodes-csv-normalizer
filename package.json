@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-csv-normalizer",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Smart CSV/Excel normalizer for n8n workflows - auto-detect encoding, normalize headers, clean data",
   "keywords": [
     "n8n-community-node-package",

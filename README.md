@@ -2,8 +2,10 @@
 
 Smart CSV/Excel normalizer for n8n workflows.
 
-![n8n.io](https://img.shields.io/badge/n8n-node-FF6D5A.svg)
-[![npm version](https://badge.fury.io/js/n8n-nodes-csv-normalizer.svg)](https://www.npmjs.com/package/n8n-nodes-csv-normalizer)
+![n8n-nodes-mtn-momo](https://img.shields.io/npm/v/n8n-nodes-csv-normalizer)
+![npm](https://img.shields.io/npm/dt/n8n-nodes-csv-normalizer)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## Features
 
